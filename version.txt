@@ -1,2 +1,2 @@
 1.0.1
-https://github.com/oOFlyOo/Unity3d_UpdateManager/blob/0a9d1d7a18b0578d2d4213067cf5c42255d334e7/Android.apk
+https://raw.githubusercontent.com/oOFlyOo/Unity3d_UpdateManager/0a9d1d7a18b0578d2d4213067cf5c42255d334e7/Android.apk
